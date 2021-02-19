@@ -18,4 +18,4 @@ When users download your app, it will earn a coveted place on their home screen.
 
 ### App Walkthrough GIF
 
-<img src="http://g.recordit.co/jYHozjpkCh.gif" width=250><br>
+<img src="http://g.recordit.co/430W2vDyhO.gif" width=250><br>
